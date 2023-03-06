@@ -34,6 +34,7 @@ function likes(names) {
 ## Experience
 * Code [rmdb-trainig](https://github.com/DartSter/rmdb-training), Site: [link](https://rmdb-project2.netlify.app/)
 * ShareMe (based on JSM course on YouTube) - [link](https://shareme-jsx-project.netlify.app)
+* Code [momentum-for-JSPS2022Q4](https://github.com/rolling-scopes-school/dartster-JSFEPRESCHOOL2022Q4/tree/momentum/momentum), Site: [link](https://dartster-momentum.netlify.app/)
 
 ***
 ## Education
