@@ -16,6 +16,7 @@
 ## About Me
 
 Persistent self-education day by day no day-off over 2 years. No real experience in projects yet.
+
 ***
 
 ## Skills
